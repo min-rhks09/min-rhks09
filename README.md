@@ -10,11 +10,12 @@
 <br>
 
 <p align="center">
+    <Strong>🤩 Email</Strong><br>220805min@gmail.com<br>
     <Strong>🤩 Portfolio</Strong><br><br>
     <a href="https://www.notion.so/cc2e19e6d2964417aa2cc8a538d2867d?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 <br><br>
-<Strong>🤩 Email</Strong><br>220805min@gmail.com<br>
+
 
 </p>
 
