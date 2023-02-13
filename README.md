@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**min-rhks09/min-rhks09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**min-rhks09/min-rhks09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20Welcome!&fontSize=90&<br>welcom to my gitbub)
 
