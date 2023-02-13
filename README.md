@@ -1,5 +1,5 @@
 <!-- **min-rhks09/min-rhks09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=👋%20Hello!%&desc=%20%20Welcome%20to%20My%20Github&fontSize=80&descAlign=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=500&section=header&text=👋%20Hello!%&desc=%20%20Welcome%20to%20My%20Github&fontSize=80&descAlign=55)
 <br>
 
 <p align="center">
