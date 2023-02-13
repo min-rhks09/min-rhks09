@@ -90,5 +90,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chltmdwns96)](https://solved.ac/chltmdwns96/)
     
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=min-rhks09&layout=compact&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=min-rhks09&layout=compact&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minrhks09&layout=compact&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=tokyonight)
