@@ -2,17 +2,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=👋%20Hello!%&desc=%20%20Welcome%20to%20My%20Github&fontSize=80&descAlign=55)
 <br>
 
-![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Hello%20capsule%20render&descAlign=10)
 <p align="center">
     <Strong>🤩 Email</Strong><br><br>220805min@gmail.com<br>
     <br>
     <Strong>🤩 Portfolio</Strong><br><br>
     <a href="https://www.notion.so/cc2e19e6d2964417aa2cc8a538d2867d?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-
 <br><br>
-
-
 </p>
+
 <p align="center">
 안녕하세요!!<br>
 프론트엔드를 공부하고 있는 박민관 이라고 합니다<br>
