@@ -1,13 +1,8 @@
-### Hi there 👋
-
-<!--
-**min-rhks09/min-rhks09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WELCOME!%20My%20Github&fontSize=90)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<!-- **min-rhks09/min-rhks09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WELCOME!%20My%20Github&fontSize=80)
 <br>
 
+![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Hello%20capsule%20render)
 <p align="center">
     <Strong>🤩 Email</Strong><br><br>220805min@gmail.com<br>
     <br>
