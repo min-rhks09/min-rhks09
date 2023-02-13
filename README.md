@@ -3,9 +3,7 @@
 <!--
 **min-rhks09/min-rhks09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20Welcome!&fontSize=90&<br>welcom to my gitbub)
-
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Welocome to my%20GitHub !%20&height=150&fontSize=60&desc=minkwan park&descAlignY=75&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WELCOME!%20My Github&fontSize=90)
 
 <br>
 
