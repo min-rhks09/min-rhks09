@@ -95,3 +95,4 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=tokyonight)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=min-rhks09&&show_icons=true&theme=tokyonight)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=min-rhks09&layout=compact)]
