@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=👋%20Hello!%&desc=%20%20Welcome%20to%20My%20Github&fontSize=80)
 <br>
 
-![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Hello%20capsule%20render&descAlign=100)
+![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Hello%20capsule%20render&descAlign=10)
 <p align="center">
     <Strong>🤩 Email</Strong><br><br>220805min@gmail.com<br>
     <br>
