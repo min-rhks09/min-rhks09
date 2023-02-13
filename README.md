@@ -5,13 +5,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20Welcome!&fontSize=90&<br>welcom to my gitbub)
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=PgmJun's%20GitHub%20&height=150&fontSize=60&desc=Hello!&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Welocome to my%20GitHub !%20&height=150&fontSize=60&desc=minkwan park&descAlignY=75&descAlign=60)
 
 <br>
 
 <p align="center">
     <Strong>Portfolio</Strong><br><br>
-    <a href="https://pgmjun.notion.site/pgmjun/33e788d9f4484f3f84701b5ff92b7f1e" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+    <a href= target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
     <br>
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPgmJun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <br><br>
