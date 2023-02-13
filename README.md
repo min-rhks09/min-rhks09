@@ -88,7 +88,7 @@
     
 ![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=pgmjun&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chltmdwns96)](https://solved.ac/chltmdwns96/)
-
+![minkwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=min-rhks09&show_icons=true&theme=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=min-rhks09&layout=compact)
     
 </div>
