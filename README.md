@@ -2,6 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=👋%20Hello!%&desc=%20%20Welcome%20to%20My%20Github&fontSize=90&descAlign=55)
 <br>
+<!--
 <p align="center">
     <Strong>🤩 Email</Strong><br><br>220805min@gmail.com<br>
     <br>
@@ -41,3 +42,4 @@
     
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chltmdwns96)](https://solved.ac/chltmdwns96/) -->
 </div>
+-->
