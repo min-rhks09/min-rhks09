@@ -8,6 +8,7 @@
     <br>
     <Strong>🤩 Portfolio</Strong><br><br>
     <a href="https://shadowed-guava-295.notion.site/d66428b136b54336a4c0e23d25fafaf2"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+    <P>블로그 내용 추가</P>
 <br><br>
 </p>
 
