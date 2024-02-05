@@ -35,12 +35,12 @@
 
 <br>
 
-<div align="center">
+<!--<div align="center">
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=min-rhks09&layout=compact)    
 
 ![minkwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=min-rhks09&show_icons=true&theme=true)
     
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chltmdwns96)](https://solved.ac/chltmdwns96/) -->
-</div>
+</div>-->
 
